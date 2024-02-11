@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.gpa-calculator-container {
+    background-color: #f9fbfe;
+}
+
+.gpa-calculator-image {
+    width: 100%;
+}
+
+.gpa-calculator-heading {
+    color: #264fa2;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: 500;
+}
+
+.user-input {
+    height: 40px;
+    width: 100%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cbd2d9;
+    border-radius: 4px;
+    padding-left: 12px;
+}
+
+.grade-input {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cbd2d9;
+    border-radius: 4px;
+    padding-left: 12px;
+}
+
+
+.custom-button {
+    font-family: "Roboto";
+    font-size: 20px;
+    margin-left: 5px;
+    font-weight: bold;
+}
